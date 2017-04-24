@@ -18,7 +18,7 @@
 
 package org.apache.command;
 
-import org.apache.storm.command.CLI;
+import org.apache.command.CLI;
 import org.junit.Test;
 
 import java.util.HashMap;
